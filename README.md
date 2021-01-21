@@ -1,2 +1,3 @@
-# CS140-Assign01
-Archive of Assignment from CS140: Java Spring 2020
+# Sem2020-assignment01
+assignment 01
+The tester will not be available for a while and will be posted on the Piazza page, as will any corrections or other updates.

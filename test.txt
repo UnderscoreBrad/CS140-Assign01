@@ -1,0 +1,12 @@
+Baker
+EXPECTED: BAKER
+21
+EXPECTED: 21
+true
+EXPECTED: true
+Larson
+EXPECTED: Larson
+4.0
+EXPECTED: 4.00
+true
+EXPECTED: true
